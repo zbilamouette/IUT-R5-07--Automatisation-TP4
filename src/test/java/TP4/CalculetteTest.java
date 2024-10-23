@@ -1,6 +1,8 @@
+
 import org.junit.Test;
 import static org.junit.Assert.*;
 
+import TP4.Calculette;
 
 public class CalculetteTest {
 
